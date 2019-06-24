@@ -1,0 +1,367 @@
+.dabeijing {
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    background: #FAFAFA;
+}
+
+.shangcaidan {
+    /* border: 1px solid black; */
+    border-bottom: 2px solid #d6d6d6;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    margin: 10px;
+    background: white;
+
+}
+
+.scd {
+    /* border: 1px solid blue; */
+    height: 90px;
+    width: 1200px;
+    margin: 0px auto;
+    position: relative;
+}
+
+.logo {
+    /* border: 1px solid red; */
+    width: 184px;
+    height: 70px;
+    position: absolute;
+    top: 10px;
+    left: 15px;
+}
+
+.nihao {
+    /* border: 1px solid red; */
+    font-family: "宋体";
+    font-size: 14px;
+    color: #959595;
+    position: absolute;
+    top: 10px;
+    right: 240px;
+
+}
+
+.denglu {
+    /* border: 1px solid red; */
+    position: absolute;
+    top: 8px;
+    right: 190px;
+    font-size: 14px;
+}
+
+.denglu>a {
+    color: blue;
+}
+
+.bangzhu1 {
+    /* border: 1px solid red; */
+    position: absolute;
+    top: 8px;
+    right: 150px;
+}
+
+.bangzhu2 {
+    /* border: 1px solid red; */
+    position: absolute;
+    top: 10px;
+    right: 90px;
+    font-size: 14px;
+    font-family: "宋体";
+}
+
+.bangzhu3 {
+    /* border: 1px solid red; */
+    position: absolute;
+    top: 10px;
+    right: 70px;
+}
+
+
+
+
+
+
+.zhujiemian {
+    /* border: 1px solid black; */
+    position: absolute;
+    top: 110px;
+    left: 0px;
+    right: 0px;
+    margin: 10px;
+}
+
+.zjm {
+    /* border: 1px solid blue; */
+    height: 600px;
+    width: 1200px;
+    margin: 0px auto;
+    position: relative;
+}
+
+.duoshoujia {
+    /* border: 1px solid red; */
+    position: absolute;
+    top: 90px;
+    left: 120px;
+}
+
+.denglujiemian {
+    /* border: 1px solid red; */
+    position: absolute;
+    top: 70px;
+    right: 120px;
+}
+
+.hu {
+    /* border: 1px solid red; */
+    position: absolute;
+    top: 540px;
+    right: 390px;
+    text-align: center;
+    font-size: 14px;
+    font-family: "黑体";
+    color: #5f5f5f;
+}
+
+.yonghu1 {
+    /* border: 1px solid red; */
+    position: absolute;
+    top: 45px;
+    right: 290px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: "黑体";
+    color: #5f5f5f;
+}
+
+.yonghu2 {
+    /* border: 1px solid red; */
+    position: absolute;
+    top: 40px;
+    right: 435px;
+}
+
+.zhuce {
+    /* border: 1px solid red; */
+    position: absolute;
+    top: 45px;
+    right: 140px;
+    font-size: 14px;
+}
+
+.zhuce>a {
+    color: blue;
+}
+
+.hezuo {
+    /* border: 1px solid red; */
+    position: absolute;
+    top: 310px;
+    left: 80px;
+    font-family: "黑体";
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.yonghuming {
+    border-top: 1px solid #959595;
+    border-right: 1px solid #959595;
+    border-left: 0px;
+    border-bottom: 1px solid #959595;
+    position: absolute;
+    top: 60px;
+    left: 120px;
+    width: 310px;
+    height: 40px;
+}
+
+.yonghu {
+    border-top: 1px solid #959595;
+    border-right: 0px;
+    border-left: 1px solid #959595;
+    border-bottom: 1px solid #959595;
+    position: absolute;
+    top: 60px;
+    left: 80px;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+}
+
+.mima1 {
+    border-top: 1px solid #959595;
+    border-right: 1px solid #959595;
+    border-left: 0px;
+    border-bottom: 1px solid #959595;
+    position: absolute;
+    top: 101px;
+    left: 120px;
+    width: 310px;
+    height: 40px;
+}
+
+.mima2 {
+    border-top: 1px solid #959595;
+    border-right: 0px;
+    border-left: 1px solid #959595;
+    border-bottom: 1px solid #959595;
+    position: absolute;
+    top: 101px;
+    left: 80px;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+}
+
+.zidong {
+    /* border: 1px solid red; */
+    position: absolute;
+    top: 160px;
+    left: 80px;
+    color: #959595;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.wangji {
+    /* border: 1px solid red; */
+    position: absolute;
+    top: 160px;
+    right: 80px;
+}
+
+.wangji>a {
+    color: #959595;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.anniu {
+    /* border: 1px solid red; */
+    position: absolute;
+    top: 210px;
+    left: 80px;
+    width: 350px;
+    height: 43px;
+    text-align: center;
+    line-height: 43px;
+    background: url(img/denglu.png);
+}
+
+.anniu>a {
+    /* border: 1px solid red; */
+    padding: 6px 150px;
+    color: white;
+    font-size: 20px;
+}
+
+.qqanniu {
+    /* border: 1px solid red; */
+    position: absolute;
+    top: 345px;
+    left: 80px;
+    width: 35px;
+    height: 35px;
+    text-align: center;
+    line-height: 35px;
+    background: url(img/qq1.png);
+}
+
+.qqanniu>a {
+    /* border: 1px solid red; */
+    padding: 10px 15px;
+}
+
+.qqanniu:hover {
+    background: url(img/qq2.png)
+}
+
+.xlanniu {
+    /* border: 1px solid red; */
+    position: absolute;
+    top: 345px;
+    left: 125px;
+    width: 35px;
+    height: 35px;
+    text-align: center;
+    line-height: 35px;
+    background: url(img/xl1.png);
+}
+
+.xlanniu>a {
+    /* border: 1px solid red; */
+    padding: 10px 15px;
+}
+
+.xlanniu:hover {
+    background: url(img/xl2.png)
+}
+
+.zfbanniu {
+    /* border: 1px solid red; */
+    position: absolute;
+    top: 345px;
+    left: 170px;
+    width: 35px;
+    height: 35px;
+    text-align: center;
+    line-height: 35px;
+    background: url(img/zfb1.png);
+}
+
+.zfbanniu>a {
+    /* border: 1px solid red; */
+    padding: 10px 15px;
+}
+
+.zfbanniu:hover {
+    background: url(img/zfb2.png)
+}
+
+.wyanniu {
+    /* border: 1px solid red; */
+    position: absolute;
+    top: 345px;
+    left: 215px;
+    width: 35px;
+    height: 35px;
+    text-align: center;
+    line-height: 35px;
+    background: url(img/wy1.png);
+}
+
+.wyanniu>a {
+    /* border: 1px solid red; */
+    padding: 10px 15px;
+}
+
+.wyanniu:hover {
+    background: url(img/wy2.png)
+}
+
+.gengduo {
+    /* border: 1px solid red; */
+    position: absolute;
+    top: 385px;
+    left: 80px;
+    font-family: "黑体";
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.jiantou1 {
+    /* border: 1px solid red; */
+    width: 22px;
+    height: 27px;
+    position: absolute;
+    top: 382px;
+    left: 180px;
+}
